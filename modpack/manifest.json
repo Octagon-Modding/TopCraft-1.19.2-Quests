@@ -32,6 +32,14 @@
       }
     },
     {
+      "projectID": 60028,
+      "fileID": 4074684,
+      "required": true,
+      "__meta": {
+        "name": "Aquaculture 2"
+      }
+    },
+    {
       "projectID": 60089,
       "fileID": 3871353,
       "required": true,
@@ -87,6 +95,14 @@
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2"
+      }
+    },
+    {
+      "projectID": 224218,
+      "fileID": 3907274,
+      "required": true,
+      "__meta": {
+        "name": "Compact Machines"
       }
     },
     {
@@ -178,6 +194,14 @@
       }
     },
     {
+      "projectID": 238747,
+      "fileID": 3898427,
+      "required": true,
+      "__meta": {
+        "name": "Mod Name Tooltip"
+      }
+    },
+    {
       "projectID": 240630,
       "fileID": 4092965,
       "required": true,
@@ -199,6 +223,23 @@
       }
     },
     {
+      "projectID": 242818,
+      "fileID": 3962126,
+      "required": true,
+      "__meta": {
+        "name": "CodeChicken Lib 1.8.+",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 243076,
+      "fileID": 4057992,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage"
+      }
+    },
+    {
       "projectID": 243121,
       "fileID": 4102873,
       "required": true,
@@ -210,6 +251,17 @@
       }
     },
     {
+      "projectID": 245174,
+      "fileID": 3951059,
+      "required": true,
+      "__meta": {
+        "name": "Ender Storage 1.8.+",
+        "dependencies": [
+          242818
+        ]
+      }
+    },
+    {
       "projectID": 245755,
       "fileID": 3901921,
       "required": true,
@@ -217,6 +269,17 @@
         "name": "Waystones",
         "dependencies": [
           531761
+        ]
+      }
+    },
+    {
+      "projectID": 246640,
+      "fileID": 4105400,
+      "required": true,
+      "__meta": {
+        "name": "Mystical Agriculture",
+        "dependencies": [
+          272335
         ]
       }
     },
@@ -340,6 +403,17 @@
       }
     },
     {
+      "projectID": 268567,
+      "fileID": 4041169,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Tools",
+        "dependencies": [
+          268560
+        ]
+      }
+    },
+    {
       "projectID": 271740,
       "fileID": 4028343,
       "required": true,
@@ -351,11 +425,36 @@
       }
     },
     {
+      "projectID": 272302,
+      "fileID": 4012659,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage Addons"
+      }
+    },
+    {
+      "projectID": 272335,
+      "fileID": 4055932,
+      "required": true,
+      "__meta": {
+        "name": "Cucumber Library",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 272515,
       "fileID": 3940452,
       "required": true,
       "__meta": {
         "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 274259,
+      "fileID": 4110529,
+      "required": true,
+      "__meta": {
+        "name": "Carry On"
       }
     },
     {
@@ -393,6 +492,17 @@
       }
     },
     {
+      "projectID": 288885,
+      "fileID": 4029996,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
       "projectID": 298187,
       "fileID": 4002496,
       "required": true,
@@ -421,6 +531,27 @@
       }
     },
     {
+      "projectID": 314906,
+      "fileID": 4124673,
+      "required": true,
+      "__meta": {
+        "name": "FTB Chunks (Forge)",
+        "dependencies": [
+          404468,
+          419699,
+          404465
+        ]
+      }
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4096513,
+      "required": true,
+      "__meta": {
+        "name": "Jade 🔍"
+      }
+    },
+    {
       "projectID": 326041,
       "fileID": 3970757,
       "required": true,
@@ -446,6 +577,49 @@
       "required": true,
       "__meta": {
         "name": "Macaw's Bridges"
+      }
+    },
+    {
+      "projectID": 352039,
+      "fileID": 4028405,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Roofs"
+      }
+    },
+    {
+      "projectID": 362528,
+      "fileID": 3941638,
+      "required": true,
+      "__meta": {
+        "name": "Decorative Blocks"
+      }
+    },
+    {
+      "projectID": 378646,
+      "fileID": 3930976,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Doors"
+      }
+    },
+    {
+      "projectID": 388800,
+      "fileID": 4119087,
+      "required": true,
+      "__meta": {
+        "name": "Polymorph (Forge)"
+      }
+    },
+    {
+      "projectID": 389665,
+      "fileID": 4031199,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Mineshafts (Forge)",
+        "dependencies": [
+          421850
+        ]
       }
     },
     {
@@ -478,6 +652,31 @@
       }
     },
     {
+      "projectID": 404465,
+      "fileID": 4123392,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 404468,
+      "fileID": 4123418,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Forge)",
+        "explicit": false,
+        "dependencies": [
+          404465,
+          419699
+        ]
+      }
+    },
+    {
       "projectID": 412082,
       "fileID": 4120070,
       "required": true,
@@ -495,6 +694,39 @@
       "__meta": {
         "name": "Architectury API (Fabric/Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 421850,
+      "fileID": 4035002,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's API (Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 422301,
+      "fileID": 4124726,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Backpacks"
+      }
+    },
+    {
+      "projectID": 453925,
+      "fileID": 3923128,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Fences and Walls"
+      }
+    },
+    {
+      "projectID": 457570,
+      "fileID": 4011355,
+      "required": true,
+      "__meta": {
+        "name": "Configured"
       }
     },
     {

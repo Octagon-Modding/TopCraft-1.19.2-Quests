@@ -24,11 +24,61 @@
       }
     },
     {
+      "projectID": 55438,
+      "fileID": 3907425,
+      "required": true,
+      "__meta": {
+        "name": "MrCrayfish's Furniture Mod"
+      }
+    },
+    {
       "projectID": 60089,
       "fileID": 3871353,
       "required": true,
       "__meta": {
         "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 69162,
+      "fileID": 4112121,
+      "required": true,
+      "__meta": {
+        "name": "CoFH Core",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 69163,
+      "fileID": 4112130,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Expansion",
+        "dependencies": [
+          222880
+        ]
+      }
+    },
+    {
+      "projectID": 220318,
+      "fileID": 4119130,
+      "required": true,
+      "__meta": {
+        "name": "Biomes O' Plenty",
+        "dependencies": [
+          563928
+        ]
+      }
+    },
+    {
+      "projectID": 222880,
+      "fileID": 4112137,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Foundation",
+        "dependencies": [
+          69162
+        ]
       }
     },
     {
@@ -65,11 +115,58 @@
       }
     },
     {
+      "projectID": 230976,
+      "fileID": 3894512,
+      "required": true,
+      "__meta": {
+        "name": "Fast Leaf Decay"
+      }
+    },
+    {
+      "projectID": 231484,
+      "fileID": 4055331,
+      "required": true,
+      "__meta": {
+        "name": "Cooking for Blockheads",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
       "projectID": 231951,
       "fileID": 3963698,
       "required": true,
       "__meta": {
         "name": "Immersive Engineering"
+      }
+    },
+    {
+      "projectID": 233071,
+      "fileID": 3914007,
+      "required": true,
+      "__meta": {
+        "name": "Crafting Tweaks",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 233105,
+      "fileID": 4086452,
+      "required": true,
+      "__meta": {
+        "name": "McJtyLib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 237307,
+      "fileID": 4016732,
+      "required": true,
+      "__meta": {
+        "name": "Cosmetic Armor Reworked"
       }
     },
     {
@@ -86,6 +183,19 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Resources (JER)"
+      }
+    },
+    {
+      "projectID": 242195,
+      "fileID": 4056390,
+      "required": true,
+      "__meta": {
+        "name": "Dark Utilities",
+        "dependencies": [
+          228525,
+          393149,
+          396234
+        ]
       }
     },
     {
@@ -108,6 +218,14 @@
         "dependencies": [
           531761
         ]
+      }
+    },
+    {
+      "projectID": 248020,
+      "fileID": 4095070,
+      "required": true,
+      "__meta": {
+        "name": "Flux Networks"
       }
     },
     {
@@ -163,11 +281,43 @@
       }
     },
     {
+      "projectID": 254268,
+      "fileID": 3965528,
+      "required": true,
+      "__meta": {
+        "name": "Torchmaster"
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 3950216,
       "required": true,
       "__meta": {
         "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 260912,
+      "fileID": 3932650,
+      "required": true,
+      "__meta": {
+        "name": "XNet",
+        "dependencies": [
+          233105,
+          326041
+        ]
+      }
+    },
+    {
+      "projectID": 266515,
+      "fileID": 4046524,
+      "required": true,
+      "__meta": {
+        "name": "Industrial Foregoing",
+        "dependencies": [
+          306770,
+          287342
+        ]
       }
     },
     {
@@ -179,11 +329,84 @@
       }
     },
     {
+      "projectID": 268566,
+      "fileID": 4041168,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Generators",
+        "dependencies": [
+          268560
+        ]
+      }
+    },
+    {
+      "projectID": 271740,
+      "fileID": 4028343,
+      "required": true,
+      "__meta": {
+        "name": "Toast Control",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
       "projectID": 272515,
       "fileID": 3940452,
       "required": true,
       "__meta": {
         "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 276951,
+      "fileID": 4105213,
+      "required": true,
+      "__meta": {
+        "name": "Comforts (Forge)"
+      }
+    },
+    {
+      "projectID": 280510,
+      "fileID": 3963622,
+      "required": true,
+      "__meta": {
+        "name": "AttributeFix"
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 4036338,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 287342,
+      "fileID": 4015180,
+      "required": true,
+      "__meta": {
+        "name": "Titanium",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 298187,
+      "fileID": 4002496,
+      "required": true,
+      "__meta": {
+        "name": "Building Gadgets"
+      }
+    },
+    {
+      "projectID": 306770,
+      "fileID": 4031402,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli",
+        "explicit": false
       }
     },
     {
@@ -198,11 +421,60 @@
       }
     },
     {
+      "projectID": 326041,
+      "fileID": 3970757,
+      "required": true,
+      "__meta": {
+        "name": "RFTools Base",
+        "explicit": false,
+        "dependencies": [
+          233105
+        ]
+      }
+    },
+    {
+      "projectID": 328085,
+      "fileID": 4011414,
+      "required": true,
+      "__meta": {
+        "name": "Create"
+      }
+    },
+    {
       "projectID": 351725,
       "fileID": 4018295,
       "required": true,
       "__meta": {
         "name": "Macaw's Bridges"
+      }
+    },
+    {
+      "projectID": 393149,
+      "fileID": 3963629,
+      "required": true,
+      "__meta": {
+        "name": "Runelic",
+        "explicit": false,
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 396234,
+      "fileID": 3943074,
+      "required": true,
+      "__meta": {
+        "name": "Pig Pen Cipher",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 398521,
+      "fileID": 3999157,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight"
       }
     },
     {
@@ -240,6 +512,15 @@
       "required": true,
       "__meta": {
         "name": "Balm (Forge Edition)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 563928,
+      "fileID": 4095397,
+      "required": true,
+      "__meta": {
+        "name": "TerraBlender (Forge)",
         "explicit": false
       }
     }

@@ -14,5 +14,234 @@
   "version": "1.0.0",
   "author": "AwesomeKalin55",
   "name": "TopCraft 1.19.2 - Quests",
-  "files": []
+  "files": [
+    {
+      "projectID": 32274,
+      "fileID": 4097953,
+      "required": true,
+      "__meta": {
+        "name": "JourneyMap"
+      }
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3871353,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 223794,
+      "fileID": 4103567,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2"
+      }
+    },
+    {
+      "projectID": 227639,
+      "fileID": 4075841,
+      "required": true,
+      "__meta": {
+        "name": "The Twilight Forest"
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 4052856,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 228756,
+      "fileID": 3966365,
+      "required": true,
+      "__meta": {
+        "name": "Iron Chests"
+      }
+    },
+    {
+      "projectID": 231951,
+      "fileID": 3963698,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Engineering"
+      }
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4087658,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 240630,
+      "fileID": 4092965,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)"
+      }
+    },
+    {
+      "projectID": 243121,
+      "fileID": 4102873,
+      "required": true,
+      "__meta": {
+        "name": "Quark",
+        "dependencies": [
+          250363
+        ]
+      }
+    },
+    {
+      "projectID": 245755,
+      "fileID": 3901921,
+      "required": true,
+      "__meta": {
+        "name": "Waystones",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3872808,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin"
+      }
+    },
+    {
+      "projectID": 250363,
+      "fileID": 4100299,
+      "required": true,
+      "__meta": {
+        "name": "AutoRegLib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050343,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 250419,
+      "fileID": 4103618,
+      "required": true,
+      "__meta": {
+        "name": "Enchantment Descriptions",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 250832,
+      "fileID": 4086868,
+      "required": true,
+      "__meta": {
+        "name": "OpenBlocks Elevator"
+      }
+    },
+    {
+      "projectID": 252848,
+      "fileID": 4118390,
+      "required": true,
+      "__meta": {
+        "name": "Nature's Compass"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3950216,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 268560,
+      "fileID": 4041164,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism"
+      }
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3940452,
+      "required": true,
+      "__meta": {
+        "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 309674,
+      "fileID": 4055379,
+      "required": true,
+      "__meta": {
+        "name": "Item Filters",
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 351725,
+      "fileID": 4018295,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Bridges"
+      }
+    },
+    {
+      "projectID": 412082,
+      "fileID": 4120070,
+      "required": true,
+      "__meta": {
+        "name": "Supplementaries",
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4104616,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 499980,
+      "fileID": 4120087,
+      "required": true,
+      "__meta": {
+        "name": "Moonlight Lib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3914527,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Forge Edition)",
+        "explicit": false
+      }
+    }
+  ]
 }

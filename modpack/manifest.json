@@ -186,11 +186,35 @@
       }
     },
     {
+      "projectID": 237664,
+      "fileID": 4009901,
+      "required": true,
+      "__meta": {
+        "name": "Iron Furnaces [FORGE]"
+      }
+    },
+    {
+      "projectID": 237701,
+      "fileID": 4120086,
+      "required": true,
+      "__meta": {
+        "name": "ReAuth"
+      }
+    },
+    {
       "projectID": 238222,
       "fileID": 4087658,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 238372,
+      "fileID": 3878735,
+      "required": true,
+      "__meta": {
+        "name": "Neat"
       }
     },
     {
@@ -284,6 +308,17 @@
       }
     },
     {
+      "projectID": 247560,
+      "fileID": 4027228,
+      "required": true,
+      "__meta": {
+        "name": "Oh The Biomes You'll Go",
+        "dependencies": [
+          563928
+        ]
+      }
+    },
+    {
       "projectID": 248020,
       "fileID": 4095070,
       "required": true,
@@ -352,11 +387,32 @@
       }
     },
     {
+      "projectID": 256247,
+      "fileID": 4109516,
+      "required": true,
+      "__meta": {
+        "name": "Mystical Agradditions",
+        "dependencies": [
+          246640,
+          246640,
+          272335
+        ]
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 3950216,
       "required": true,
       "__meta": {
         "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 257356,
+      "fileID": 4081183,
+      "required": true,
+      "__meta": {
+        "name": "In Control!"
       }
     },
     {
@@ -503,6 +559,18 @@
       }
     },
     {
+      "projectID": 290209,
+      "fileID": 4087995,
+      "required": true,
+      "__meta": {
+        "name": "RFTools Power",
+        "dependencies": [
+          233105,
+          326041
+        ]
+      }
+    },
+    {
       "projectID": 298187,
       "fileID": 4002496,
       "required": true,
@@ -527,6 +595,36 @@
         "name": "Item Filters",
         "dependencies": [
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 309927,
+      "fileID": 3924518,
+      "required": true,
+      "__meta": {
+        "name": "Curios API (Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 313866,
+      "fileID": 4112665,
+      "required": true,
+      "__meta": {
+        "name": "Engineer's Decor"
+      }
+    },
+    {
+      "projectID": 313970,
+      "fileID": 4048780,
+      "required": true,
+      "__meta": {
+        "name": "Apotheosis",
+        "dependencies": [
+          306770,
+          283644,
+          250419
         ]
       }
     },
@@ -572,6 +670,48 @@
       }
     },
     {
+      "projectID": 331936,
+      "fileID": 4087465,
+      "required": true,
+      "__meta": {
+        "name": "Citadel",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 334853,
+      "fileID": 4076569,
+      "required": true,
+      "__meta": {
+        "name": "Simple Discord Rich Presence (Forge /  Fabric)",
+        "dependencies": [
+          348521,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 347706,
+      "fileID": 3994831,
+      "required": true,
+      "__meta": {
+        "name": "RFTools Builder",
+        "dependencies": [
+          233105,
+          326041
+        ]
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972423,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 351725,
       "fileID": 4018295,
       "required": true,
@@ -588,6 +728,14 @@
       }
     },
     {
+      "projectID": 357540,
+      "fileID": 3930588,
+      "required": true,
+      "__meta": {
+        "name": "Inventory HUD+"
+      }
+    },
+    {
       "projectID": 362528,
       "fileID": 3941638,
       "required": true,
@@ -596,11 +744,31 @@
       }
     },
     {
+      "projectID": 363569,
+      "fileID": 4110524,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Windows"
+      }
+    },
+    {
       "projectID": 378646,
       "fileID": 3930976,
       "required": true,
       "__meta": {
         "name": "Macaw's Doors"
+      }
+    },
+    {
+      "projectID": 386134,
+      "fileID": 3993549,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ultimine (Forge)",
+        "dependencies": [
+          419699,
+          404465
+        ]
       }
     },
     {
@@ -635,6 +803,17 @@
       }
     },
     {
+      "projectID": 394535,
+      "fileID": 3963474,
+      "required": true,
+      "__meta": {
+        "name": "Trash Cans",
+        "dependencies": [
+          454372
+        ]
+      }
+    },
+    {
       "projectID": 396234,
       "fileID": 3943074,
       "required": true,
@@ -649,6 +828,34 @@
       "required": true,
       "__meta": {
         "name": "Farmer's Delight"
+      }
+    },
+    {
+      "projectID": 399558,
+      "fileID": 3926815,
+      "required": true,
+      "__meta": {
+        "name": "Construction Wand"
+      }
+    },
+    {
+      "projectID": 400933,
+      "fileID": 3923124,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Trapdoors"
+      }
+    },
+    {
+      "projectID": 401955,
+      "fileID": 4060866,
+      "required": true,
+      "__meta": {
+        "name": "Ars Nouveau",
+        "dependencies": [
+          309927,
+          306770
+        ]
       }
     },
     {
@@ -714,11 +921,31 @@
       }
     },
     {
+      "projectID": 426558,
+      "fileID": 4071154,
+      "required": true,
+      "__meta": {
+        "name": "Alex's Mobs",
+        "dependencies": [
+          331936
+        ]
+      }
+    },
+    {
       "projectID": 453925,
       "fileID": 3923128,
       "required": true,
       "__meta": {
         "name": "Macaw's Fences and Walls"
+      }
+    },
+    {
+      "projectID": 454372,
+      "fileID": 3910759,
+      "required": true,
+      "__meta": {
+        "name": "SuperMartijn642's Core Lib",
+        "explicit": false
       }
     },
     {
@@ -745,6 +972,14 @@
       "__meta": {
         "name": "Balm (Forge Edition)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 551894,
+      "fileID": 4058404,
+      "required": true,
+      "__meta": {
+        "name": "Better Compatibility Checker"
       }
     },
     {

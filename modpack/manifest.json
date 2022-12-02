@@ -106,6 +106,14 @@
       }
     },
     {
+      "projectID": 225738,
+      "fileID": 3913301,
+      "required": true,
+      "__meta": {
+        "name": "MmmMmmMmmMmm (Target Dummy)"
+      }
+    },
+    {
       "projectID": 226410,
       "fileID": 3955047,
       "required": true,
@@ -469,6 +477,26 @@
       }
     },
     {
+      "projectID": 250898,
+      "fileID": 3983796,
+      "required": true,
+      "__meta": {
+        "name": "Ore Excavation"
+      }
+    },
+    {
+      "projectID": 251389,
+      "fileID": 4051715,
+      "required": true,
+      "__meta": {
+        "name": "Integrated Tunnels",
+        "dependencies": [
+          232758,
+          236307
+        ]
+      }
+    },
+    {
       "projectID": 252848,
       "fileID": 4118390,
       "required": true,
@@ -531,6 +559,25 @@
       "required": true,
       "__meta": {
         "name": "Bad Wither No Cookie - Reloaded"
+      }
+    },
+    {
+      "projectID": 261924,
+      "fileID": 3901908,
+      "required": true,
+      "__meta": {
+        "name": "Farming for Blockheads",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 264353,
+      "fileID": 3922675,
+      "required": true,
+      "__meta": {
+        "name": "SwingThroughGrass"
       }
     },
     {
@@ -734,11 +781,42 @@
       }
     },
     {
+      "projectID": 306549,
+      "fileID": 4103616,
+      "required": true,
+      "__meta": {
+        "name": "Tips",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
       "projectID": 306770,
       "fileID": 4031402,
       "required": true,
       "__meta": {
         "name": "Patchouli",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 307788,
+      "fileID": 4014076,
+      "required": true,
+      "__meta": {
+        "name": "Refined Storage: Requestify",
+        "dependencies": [
+          243076
+        ]
+      }
+    },
+    {
+      "projectID": 308989,
+      "fileID": 3929284,
+      "required": true,
+      "__meta": {
+        "name": "Caelus API (Forge)",
         "explicit": false
       }
     },
@@ -793,6 +871,18 @@
           404468,
           419699,
           404465
+        ]
+      }
+    },
+    {
+      "projectID": 317716,
+      "fileID": 3929276,
+      "required": true,
+      "__meta": {
+        "name": "Elytra Slot (Forge)",
+        "dependencies": [
+          309927,
+          308989
         ]
       }
     },
@@ -907,6 +997,17 @@
       }
     },
     {
+      "projectID": 353928,
+      "fileID": 4077366,
+      "required": true,
+      "__meta": {
+        "name": "Botany Pots",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
       "projectID": 357540,
       "fileID": 3930588,
       "required": true,
@@ -920,6 +1021,14 @@
       "required": true,
       "__meta": {
         "name": "Decorative Blocks"
+      }
+    },
+    {
+      "projectID": 363363,
+      "fileID": 4076651,
+      "required": true,
+      "__meta": {
+        "name": "Extreme sound muffler (Forge)"
       }
     },
     {
@@ -942,11 +1051,41 @@
       }
     },
     {
+      "projectID": 368293,
+      "fileID": 4111833,
+      "required": true,
+      "__meta": {
+        "name": "Repurposed Structures (Forge)"
+      }
+    },
+    {
+      "projectID": 371813,
+      "fileID": 4033133,
+      "required": true,
+      "__meta": {
+        "name": "Crash Utilities"
+      }
+    },
+    {
       "projectID": 378646,
       "fileID": 3930976,
       "required": true,
       "__meta": {
         "name": "Macaw's Doors"
+      }
+    },
+    {
+      "projectID": 383182,
+      "fileID": 3918289,
+      "required": true,
+      "__meta": {
+        "name": "XNet Gases",
+        "dependencies": [
+          268560,
+          233105,
+          260912,
+          326041
+        ]
       }
     },
     {
@@ -1142,6 +1281,14 @@
       }
     },
     {
+      "projectID": 433760,
+      "fileID": 4065546,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Animations"
+      }
+    },
+    {
       "projectID": 439890,
       "fileID": 4105677,
       "required": true,
@@ -1150,6 +1297,22 @@
         "dependencies": [
           328085
         ]
+      }
+    },
+    {
+      "projectID": 441647,
+      "fileID": 4094414,
+      "required": true,
+      "__meta": {
+        "name": "FramedBlocks"
+      }
+    },
+    {
+      "projectID": 442508,
+      "fileID": 4048244,
+      "required": true,
+      "__meta": {
+        "name": "When Dungeons Arise - Forge!"
       }
     },
     {
@@ -1186,12 +1349,42 @@
       }
     },
     {
+      "projectID": 465575,
+      "fileID": 4031213,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Strongholds (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
       "projectID": 499980,
       "fileID": 4120087,
       "required": true,
       "__meta": {
         "name": "Moonlight Lib",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 502372,
+      "fileID": 3923131,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Lights and Lamps"
+      }
+    },
+    {
+      "projectID": 510089,
+      "fileID": 4073204,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Forge)",
+        "dependencies": [
+          421850
+        ]
       }
     },
     {
@@ -1218,6 +1411,30 @@
       "__meta": {
         "name": "TerraBlender (Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 576589,
+      "fileID": 4110280,
+      "required": true,
+      "__meta": {
+        "name": "PolyLib",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 622737,
+      "fileID": 4105765,
+      "required": true,
+      "__meta": {
+        "name": "FTB Backups 2",
+        "dependencies": [
+          576589,
+          419699
+        ]
       }
     }
   ]

@@ -290,6 +290,14 @@
       }
     },
     {
+      "projectID": 240633,
+      "fileID": 3963662,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Sorter"
+      }
+    },
+    {
       "projectID": 241319,
       "fileID": 4005376,
       "required": true,
@@ -497,6 +505,17 @@
       }
     },
     {
+      "projectID": 252042,
+      "fileID": 4084513,
+      "required": true,
+      "__meta": {
+        "name": "Paintings ++",
+        "dependencies": [
+          377582
+        ]
+      }
+    },
+    {
       "projectID": 252848,
       "fileID": 4118390,
       "required": true,
@@ -593,6 +612,14 @@
       }
     },
     {
+      "projectID": 268495,
+      "fileID": 3914635,
+      "required": true,
+      "__meta": {
+        "name": "Simple Storage Network"
+      }
+    },
+    {
       "projectID": 268560,
       "fileID": 4041164,
       "required": true,
@@ -630,6 +657,17 @@
         "name": "Toast Control",
         "dependencies": [
           283644
+        ]
+      }
+    },
+    {
+      "projectID": 271835,
+      "fileID": 4112131,
+      "required": true,
+      "__meta": {
+        "name": "Thermal Cultivation",
+        "dependencies": [
+          222880
         ]
       }
     },
@@ -675,6 +713,14 @@
       }
     },
     {
+      "projectID": 277616,
+      "fileID": 3974155,
+      "required": true,
+      "__meta": {
+        "name": "Spice of Life: Carrot Edition"
+      }
+    },
+    {
       "projectID": 280510,
       "fileID": 3963622,
       "required": true,
@@ -697,6 +743,17 @@
       "__meta": {
         "name": "Placebo",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 284497,
+      "fileID": 4099984,
+      "required": true,
+      "__meta": {
+        "name": "Iron Jetpacks",
+        "dependencies": [
+          272335
+        ]
       }
     },
     {
@@ -841,6 +898,17 @@
       }
     },
     {
+      "projectID": 312353,
+      "fileID": 4013928,
+      "required": true,
+      "__meta": {
+        "name": "Artifacts",
+        "dependencies": [
+          309927
+        ]
+      }
+    },
+    {
       "projectID": 313866,
       "fileID": 4112665,
       "required": true,
@@ -858,6 +926,18 @@
           306770,
           283644,
           250419
+        ]
+      }
+    },
+    {
+      "projectID": 314905,
+      "fileID": 4123404,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ranks (Forge)",
+        "dependencies": [
+          419699,
+          404465
         ]
       }
     },
@@ -892,6 +972,18 @@
       "required": true,
       "__meta": {
         "name": "Jade 🔍"
+      }
+    },
+    {
+      "projectID": 325492,
+      "fileID": 3872055,
+      "required": true,
+      "__meta": {
+        "name": "Light Overlay (Rift/Forge/Fabric)",
+        "dependencies": [
+          419699,
+          348521
+        ]
       }
     },
     {
@@ -989,6 +1081,14 @@
       }
     },
     {
+      "projectID": 351748,
+      "fileID": 3955880,
+      "required": true,
+      "__meta": {
+        "name": "Mining Gadgets"
+      }
+    },
+    {
       "projectID": 352039,
       "fileID": 4028405,
       "required": true,
@@ -1013,6 +1113,14 @@
       "required": true,
       "__meta": {
         "name": "Inventory HUD+"
+      }
+    },
+    {
+      "projectID": 360203,
+      "fileID": 3970122,
+      "required": true,
+      "__meta": {
+        "name": "Guard Villagers"
       }
     },
     {
@@ -1067,6 +1175,26 @@
       }
     },
     {
+      "projectID": 377281,
+      "fileID": 3943033,
+      "required": true,
+      "__meta": {
+        "name": "Dark Paintings",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 377582,
+      "fileID": 4031058,
+      "required": true,
+      "__meta": {
+        "name": "Transparent",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 378646,
       "fileID": 3930976,
       "required": true,
@@ -1098,6 +1226,15 @@
           419699,
           404465
         ]
+      }
+    },
+    {
+      "projectID": 388172,
+      "fileID": 4096661,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false
       }
     },
     {
@@ -1244,6 +1381,17 @@
       }
     },
     {
+      "projectID": 417645,
+      "fileID": 3873944,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Professions (JEP)",
+        "dependencies": [
+          238222
+        ]
+      }
+    },
+    {
       "projectID": 419699,
       "fileID": 4104616,
       "required": true,
@@ -1267,6 +1415,14 @@
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks"
+      }
+    },
+    {
+      "projectID": 426386,
+      "fileID": 3906397,
+      "required": true,
+      "__meta": {
+        "name": "Shrink."
       }
     },
     {
@@ -1360,6 +1516,14 @@
       }
     },
     {
+      "projectID": 470193,
+      "fileID": 4066426,
+      "required": true,
+      "__meta": {
+        "name": "Connectivity[Forge/Fabric]"
+      }
+    },
+    {
       "projectID": 499980,
       "fileID": 4120087,
       "required": true,
@@ -1385,6 +1549,14 @@
         "dependencies": [
           421850
         ]
+      }
+    },
+    {
+      "projectID": 521480,
+      "fileID": 4001980,
+      "required": true,
+      "__meta": {
+        "name": "Skin Layers 3D (Fabric/Forge)"
       }
     },
     {
@@ -1414,6 +1586,14 @@
       }
     },
     {
+      "projectID": 570463,
+      "fileID": 3987881,
+      "required": true,
+      "__meta": {
+        "name": "Ecologics"
+      }
+    },
+    {
       "projectID": 576589,
       "fileID": 4110280,
       "required": true,
@@ -1434,6 +1614,29 @@
         "dependencies": [
           576589,
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 627986,
+      "fileID": 3930809,
+      "required": true,
+      "__meta": {
+        "name": "Naturalist",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 633483,
+      "fileID": 4096468,
+      "required": true,
+      "__meta": {
+        "name": "Powah! (Rearchitected)",
+        "dependencies": [
+          419699,
+          348521
         ]
       }
     }

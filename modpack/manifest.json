@@ -377,6 +377,20 @@
       }
     },
     {
+      "projectID": 245506,
+      "fileID": 4123736,
+      "required": true,
+      "__meta": {
+        "name": "MineColonies",
+        "dependencies": [
+          527361,
+          298744,
+          522992,
+          303278
+        ]
+      }
+    },
+    {
       "projectID": 245755,
       "fileID": 3901921,
       "required": true,
@@ -477,6 +491,18 @@
       }
     },
     {
+      "projectID": 250763,
+      "fileID": 3970765,
+      "required": true,
+      "__meta": {
+        "name": "RFTools Control",
+        "dependencies": [
+          233105,
+          326041
+        ]
+      }
+    },
+    {
       "projectID": 250832,
       "fileID": 4086868,
       "required": true,
@@ -501,6 +527,17 @@
         "dependencies": [
           232758,
           236307
+        ]
+      }
+    },
+    {
+      "projectID": 251407,
+      "fileID": 3901914,
+      "required": true,
+      "__meta": {
+        "name": "Client Tweaks",
+        "dependencies": [
+          531761
         ]
       }
     },
@@ -532,6 +569,17 @@
       }
     },
     {
+      "projectID": 255902,
+      "fileID": 4028349,
+      "required": true,
+      "__meta": {
+        "name": "Wither Skeleton Tweaks",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
       "projectID": 256247,
       "fileID": 4109516,
       "required": true,
@@ -558,6 +606,14 @@
       "required": true,
       "__meta": {
         "name": "In Control!"
+      }
+    },
+    {
+      "projectID": 260262,
+      "fileID": 4124032,
+      "required": true,
+      "__meta": {
+        "name": "Tool Belt"
       }
     },
     {
@@ -729,6 +785,17 @@
       }
     },
     {
+      "projectID": 281849,
+      "fileID": 4058379,
+      "required": true,
+      "__meta": {
+        "name": "PneumaticCraft: Repressurized",
+        "dependencies": [
+          306770
+        ]
+      }
+    },
+    {
       "projectID": 282001,
       "fileID": 4065685,
       "required": true,
@@ -800,6 +867,14 @@
       }
     },
     {
+      "projectID": 291874,
+      "fileID": 4037228,
+      "required": true,
+      "__meta": {
+        "name": "Serene Seasons"
+      }
+    },
+    {
       "projectID": 291936,
       "fileID": 3910001,
       "required": true,
@@ -819,6 +894,15 @@
       }
     },
     {
+      "projectID": 298744,
+      "fileID": 4124970,
+      "required": true,
+      "__meta": {
+        "name": "Structurize",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 299540,
       "fileID": 4028348,
       "required": true,
@@ -835,6 +919,15 @@
       "required": true,
       "__meta": {
         "name": "Simply Light"
+      }
+    },
+    {
+      "projectID": 303278,
+      "fileID": 4029456,
+      "required": true,
+      "__meta": {
+        "name": "Multi-Piston",
+        "explicit": false
       }
     },
     {
@@ -955,6 +1048,14 @@
       }
     },
     {
+      "projectID": 316873,
+      "fileID": 3927421,
+      "required": true,
+      "__meta": {
+        "name": "Charm of Undying (Forge)"
+      }
+    },
+    {
       "projectID": 317716,
       "fileID": 3929276,
       "required": true,
@@ -972,6 +1073,14 @@
       "required": true,
       "__meta": {
         "name": "Jade 🔍"
+      }
+    },
+    {
+      "projectID": 324973,
+      "fileID": 3875588,
+      "required": true,
+      "__meta": {
+        "name": "Dungeon Crawl"
       }
     },
     {
@@ -1004,6 +1113,17 @@
       "required": true,
       "__meta": {
         "name": "Create"
+      }
+    },
+    {
+      "projectID": 331723,
+      "fileID": 4022327,
+      "required": true,
+      "__meta": {
+        "name": "Bamboo Everything (Forge/Fabric)",
+        "dependencies": [
+          419699
+        ]
       }
     },
     {
@@ -1040,6 +1160,14 @@
       }
     },
     {
+      "projectID": 344787,
+      "fileID": 4061120,
+      "required": true,
+      "__meta": {
+        "name": "XP Tome"
+      }
+    },
+    {
       "projectID": 347706,
       "fileID": 3994831,
       "required": true,
@@ -1058,6 +1186,14 @@
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 349559,
+      "fileID": 3968312,
+      "required": true,
+      "__meta": {
+        "name": "FallingTree (Forge&Fabric)"
       }
     },
     {
@@ -1113,6 +1249,14 @@
       "required": true,
       "__meta": {
         "name": "Inventory HUD+"
+      }
+    },
+    {
+      "projectID": 359540,
+      "fileID": 4018184,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Furniture"
       }
     },
     {
@@ -1269,6 +1413,18 @@
       }
     },
     {
+      "projectID": 394140,
+      "fileID": 3871975,
+      "required": true,
+      "__meta": {
+        "name": "Simple Magnets",
+        "dependencies": [
+          454372,
+          438332
+        ]
+      }
+    },
+    {
       "projectID": 394535,
       "fileID": 3963474,
       "required": true,
@@ -1276,6 +1432,18 @@
         "name": "Trash Cans",
         "dependencies": [
           454372
+        ]
+      }
+    },
+    {
+      "projectID": 395620,
+      "fileID": 3871905,
+      "required": true,
+      "__meta": {
+        "name": "Item Collectors",
+        "dependencies": [
+          454372,
+          438332
         ]
       }
     },
@@ -1302,6 +1470,14 @@
       "required": true,
       "__meta": {
         "name": "Construction Wand"
+      }
+    },
+    {
+      "projectID": 399757,
+      "fileID": 3955867,
+      "required": true,
+      "__meta": {
+        "name": "Charging Gadgets"
       }
     },
     {
@@ -1437,11 +1613,31 @@
       }
     },
     {
+      "projectID": 431725,
+      "fileID": 4018301,
+      "required": true,
+      "__meta": {
+        "name": "Advanced Peripherals",
+        "dependencies": [
+          282001
+        ]
+      }
+    },
+    {
       "projectID": 433760,
       "fileID": 4065546,
       "required": true,
       "__meta": {
         "name": "Not Enough Animations"
+      }
+    },
+    {
+      "projectID": 438332,
+      "fileID": 3871792,
+      "required": true,
+      "__meta": {
+        "name": "SuperMartijn642's Config Lib",
+        "explicit": false
       }
     },
     {
@@ -1524,12 +1720,43 @@
       }
     },
     {
+      "projectID": 495476,
+      "fileID": 4041202,
+      "required": true,
+      "__meta": {
+        "name": "Puzzles Lib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 496394,
+      "fileID": 3971576,
+      "required": true,
+      "__meta": {
+        "name": "Nether's Delight",
+        "dependencies": [
+          398521
+        ]
+      }
+    },
+    {
       "projectID": 499980,
       "fileID": 4120087,
       "required": true,
       "__meta": {
         "name": "Moonlight Lib",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 500273,
+      "fileID": 3944861,
+      "required": true,
+      "__meta": {
+        "name": "Visual Workbench",
+        "dependencies": [
+          495476
+        ]
       }
     },
     {
@@ -1557,6 +1784,24 @@
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 522992,
+      "fileID": 4014930,
+      "required": true,
+      "__meta": {
+        "name": "BlockUI",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 527361,
+      "fileID": 4090940,
+      "required": true,
+      "__meta": {
+        "name": "Domum Ornamentum",
+        "explicit": false
       }
     },
     {
@@ -1594,6 +1839,14 @@
       }
     },
     {
+      "projectID": 574856,
+      "fileID": 3973894,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium"
+      }
+    },
+    {
       "projectID": 576589,
       "fileID": 4110280,
       "required": true,
@@ -1618,6 +1871,17 @@
       }
     },
     {
+      "projectID": 626839,
+      "fileID": 4066818,
+      "required": true,
+      "__meta": {
+        "name": "LaserIO",
+        "dependencies": [
+          306770
+        ]
+      }
+    },
+    {
       "projectID": 627986,
       "fileID": 3930809,
       "required": true,
@@ -1638,6 +1902,14 @@
           419699,
           348521
         ]
+      }
+    },
+    {
+      "projectID": 634062,
+      "fileID": 4082456,
+      "required": true,
+      "__meta": {
+        "name": "No Chat Reports"
       }
     }
   ]

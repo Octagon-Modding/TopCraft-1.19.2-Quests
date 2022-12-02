@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "forge-43.1.7",
+        "id": "forge-43.1.57",
         "primary": true
       }
     ]
@@ -2318,6 +2318,14 @@
       "required": true,
       "__meta": {
         "name": "bad packets"
+      }
+    },
+    {
+      "projectID": 618298,
+      "fileID": 4123457,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Core"
       }
     },
     {

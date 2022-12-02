@@ -48,6 +48,14 @@
       }
     },
     {
+      "projectID": 64760,
+      "fileID": 4121479,
+      "required": true,
+      "__meta": {
+        "name": "Security Craft"
+      }
+    },
+    {
       "projectID": 69162,
       "fileID": 4112121,
       "required": true,
@@ -825,6 +833,14 @@
       }
     },
     {
+      "projectID": 280294,
+      "fileID": 3931329,
+      "required": true,
+      "__meta": {
+        "name": "FPS Reducer"
+      }
+    },
+    {
       "projectID": 280510,
       "fileID": 3963622,
       "required": true,
@@ -889,6 +905,19 @@
       }
     },
     {
+      "projectID": 287357,
+      "fileID": 3993509,
+      "required": true,
+      "__meta": {
+        "name": "Integrated Crafting",
+        "dependencies": [
+          236307,
+          232758,
+          251389
+        ]
+      }
+    },
+    {
       "projectID": 288885,
       "fileID": 4029996,
       "required": true,
@@ -938,6 +967,19 @@
         "name": "FindMe",
         "dependencies": [
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 295910,
+      "fileID": 4033089,
+      "required": true,
+      "__meta": {
+        "name": "Integrated Terminals",
+        "dependencies": [
+          236307,
+          232758,
+          251389
         ]
       }
     },
@@ -1147,6 +1189,22 @@
       }
     },
     {
+      "projectID": 319194,
+      "fileID": 3901780,
+      "required": true,
+      "__meta": {
+        "name": "Glassential"
+      }
+    },
+    {
+      "projectID": 319596,
+      "fileID": 4059308,
+      "required": true,
+      "__meta": {
+        "name": "Pehkui"
+      }
+    },
+    {
       "projectID": 324717,
       "fileID": 4096513,
       "required": true,
@@ -1212,6 +1270,14 @@
       "__meta": {
         "name": "Citadel",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 331983,
+      "fileID": 3960264,
+      "required": true,
+      "__meta": {
+        "name": "Corail Woodcutter"
       }
     },
     {
@@ -1288,6 +1354,17 @@
       }
     },
     {
+      "projectID": 351441,
+      "fileID": 3945866,
+      "required": true,
+      "__meta": {
+        "name": "Pick Up Notifier",
+        "dependencies": [
+          495476
+        ]
+      }
+    },
+    {
       "projectID": 351725,
       "fileID": 4018295,
       "required": true,
@@ -1331,6 +1408,17 @@
       }
     },
     {
+      "projectID": 358191,
+      "fileID": 4028351,
+      "required": true,
+      "__meta": {
+        "name": "PackMenu",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
       "projectID": 359540,
       "fileID": 4018184,
       "required": true,
@@ -1344,6 +1432,20 @@
       "required": true,
       "__meta": {
         "name": "Guard Villagers"
+      }
+    },
+    {
+      "projectID": 361026,
+      "fileID": 4125915,
+      "required": true,
+      "__meta": {
+        "name": "Occultism",
+        "dependencies": [
+          388172,
+          309927,
+          306770,
+          538392
+        ]
       }
     },
     {
@@ -1379,6 +1481,14 @@
       }
     },
     {
+      "projectID": 363703,
+      "fileID": 4010651,
+      "required": true,
+      "__meta": {
+        "name": "Goblin Traders"
+      }
+    },
+    {
       "projectID": 367706,
       "fileID": 4083372,
       "required": true,
@@ -1403,6 +1513,17 @@
       "required": true,
       "__meta": {
         "name": "Crash Utilities"
+      }
+    },
+    {
+      "projectID": 377109,
+      "fileID": 3944168,
+      "required": true,
+      "__meta": {
+        "name": "Tool Stats",
+        "dependencies": [
+          228525
+        ]
       }
     },
     {
@@ -1440,6 +1561,14 @@
       "__meta": {
         "name": "Structure Gel API",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 383129,
+      "fileID": 3871967,
+      "required": true,
+      "__meta": {
+        "name": "Connected Glass"
       }
     },
     {
@@ -1638,6 +1767,17 @@
       }
     },
     {
+      "projectID": 407206,
+      "fileID": 3923445,
+      "required": true,
+      "__meta": {
+        "name": "Chat Heads",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 410295,
       "fileID": 4031718,
       "required": true,
@@ -1784,6 +1924,14 @@
       }
     },
     {
+      "projectID": 435044,
+      "fileID": 3834422,
+      "required": true,
+      "__meta": {
+        "name": "Better Third Person"
+      }
+    },
+    {
       "projectID": 438332,
       "fileID": 3871792,
       "required": true,
@@ -1856,11 +2004,44 @@
       }
     },
     {
+      "projectID": 456239,
+      "fileID": 3953758,
+      "required": true,
+      "__meta": {
+        "name": "Easy Magic",
+        "dependencies": [
+          495476
+        ]
+      }
+    },
+    {
       "projectID": 457570,
       "fileID": 4011355,
       "required": true,
       "__meta": {
         "name": "Configured"
+      }
+    },
+    {
+      "projectID": 459929,
+      "fileID": 4062182,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2 Wireless Terminals",
+        "dependencies": [
+          223794,
+          419699,
+          348521,
+          309927
+        ]
+      }
+    },
+    {
+      "projectID": 460819,
+      "fileID": 3831644,
+      "required": true,
+      "__meta": {
+        "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]"
       }
     },
     {
@@ -1950,6 +2131,15 @@
       }
     },
     {
+      "projectID": 520110,
+      "fileID": 4068355,
+      "required": true,
+      "__meta": {
+        "name": "Iceberg",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 521480,
       "fileID": 4001980,
       "required": true,
@@ -1964,6 +2154,14 @@
       "__meta": {
         "name": "BlockUI",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 526854,
+      "fileID": 3836016,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Forge)"
       }
     },
     {
@@ -1982,6 +2180,38 @@
       "__meta": {
         "name": "Balm (Forge Edition)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 532127,
+      "fileID": 4068347,
+      "required": true,
+      "__meta": {
+        "name": "Legendary Tooltips",
+        "dependencies": [
+          638111,
+          520110
+        ]
+      }
+    },
+    {
+      "projectID": 538392,
+      "fileID": 4125150,
+      "required": true,
+      "__meta": {
+        "name": "Modonomicon",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 539057,
+      "fileID": 3945828,
+      "required": true,
+      "__meta": {
+        "name": "Trading Post",
+        "dependencies": [
+          495476
+        ]
       }
     },
     {
@@ -2004,12 +2234,31 @@
       }
     },
     {
+      "projectID": 561885,
+      "fileID": 3869607,
+      "required": true,
+      "__meta": {
+        "name": "Just Zoom [Forge]",
+        "dependencies": [
+          410295
+        ]
+      }
+    },
+    {
       "projectID": 563928,
       "fileID": 4095397,
       "required": true,
       "__meta": {
         "name": "TerraBlender (Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 570017,
+      "fileID": 3949703,
+      "required": true,
+      "__meta": {
+        "name": "Radium Reforged"
       }
     },
     {
@@ -2061,6 +2310,14 @@
         "dependencies": [
           574856
         ]
+      }
+    },
+    {
+      "projectID": 615134,
+      "fileID": 4073854,
+      "required": true,
+      "__meta": {
+        "name": "bad packets"
       }
     },
     {
@@ -2118,6 +2375,26 @@
       }
     },
     {
+      "projectID": 638111,
+      "fileID": 3993293,
+      "required": true,
+      "__meta": {
+        "name": "Prism",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 654373,
+      "fileID": 4059817,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium Extra",
+        "dependencies": [
+          574856
+        ]
+      }
+    },
+    {
       "projectID": 659011,
       "fileID": 4065922,
       "required": true,
@@ -2126,6 +2403,17 @@
         "dependencies": [
           388172,
           388172
+        ]
+      }
+    },
+    {
+      "projectID": 663125,
+      "fileID": 4066471,
+      "required": true,
+      "__meta": {
+        "name": "TexTrue's Rubidium Options",
+        "dependencies": [
+          574856
         ]
       }
     }

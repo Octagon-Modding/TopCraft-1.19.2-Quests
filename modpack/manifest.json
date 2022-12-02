@@ -155,6 +155,14 @@
       }
     },
     {
+      "projectID": 231275,
+      "fileID": 3974456,
+      "required": true,
+      "__meta": {
+        "name": "Ding"
+      }
+    },
+    {
       "projectID": 231484,
       "fileID": 4055331,
       "required": true,
@@ -208,6 +216,14 @@
       "__meta": {
         "name": "McJtyLib",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 233113,
+      "fileID": 4060173,
+      "required": true,
+      "__meta": {
+        "name": "Chance Cubes"
       }
     },
     {
@@ -279,6 +295,14 @@
       "required": true,
       "__meta": {
         "name": "Mod Name Tooltip"
+      }
+    },
+    {
+      "projectID": 239286,
+      "fileID": 4075141,
+      "required": true,
+      "__meta": {
+        "name": "Cyclic"
       }
     },
     {
@@ -425,6 +449,14 @@
       }
     },
     {
+      "projectID": 247496,
+      "fileID": 4012692,
+      "required": true,
+      "__meta": {
+        "name": "Ranged Pumps"
+      }
+    },
+    {
       "projectID": 247560,
       "fileID": 4027228,
       "required": true,
@@ -449,6 +481,14 @@
       "required": true,
       "__meta": {
         "name": "AppleSkin"
+      }
+    },
+    {
+      "projectID": 250294,
+      "fileID": 4076671,
+      "required": true,
+      "__meta": {
+        "name": "Modular Routers"
       }
     },
     {
@@ -706,6 +746,14 @@
       }
     },
     {
+      "projectID": 269024,
+      "fileID": 4027499,
+      "required": true,
+      "__meta": {
+        "name": "The Lost Cities"
+      }
+    },
+    {
       "projectID": 271740,
       "fileID": 4028343,
       "required": true,
@@ -801,6 +849,14 @@
       "required": true,
       "__meta": {
         "name": "CC: Tweaked"
+      }
+    },
+    {
+      "projectID": 282313,
+      "fileID": 3962570,
+      "required": true,
+      "__meta": {
+        "name": "TipTheScales"
       }
     },
     {
@@ -922,6 +978,18 @@
       }
     },
     {
+      "projectID": 301034,
+      "fileID": 3871940,
+      "required": true,
+      "__meta": {
+        "name": "Entangled",
+        "dependencies": [
+          438332,
+          454372
+        ]
+      }
+    },
+    {
       "projectID": 303278,
       "fileID": 4029456,
       "required": true,
@@ -998,6 +1066,17 @@
         "name": "Artifacts",
         "dependencies": [
           309927
+        ]
+      }
+    },
+    {
+      "projectID": 312918,
+      "fileID": 3966273,
+      "required": true,
+      "__meta": {
+        "name": "Blue Skies",
+        "dependencies": [
+          378802
         ]
       }
     },
@@ -1268,6 +1347,14 @@
       }
     },
     {
+      "projectID": 361276,
+      "fileID": 4072410,
+      "required": true,
+      "__meta": {
+        "name": "Lootr (Forge)"
+      }
+    },
+    {
       "projectID": 362528,
       "fileID": 3941638,
       "required": true,
@@ -1347,6 +1434,15 @@
       }
     },
     {
+      "projectID": 378802,
+      "fileID": 4029363,
+      "required": true,
+      "__meta": {
+        "name": "Structure Gel API",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 383182,
       "fileID": 3918289,
       "required": true,
@@ -1398,6 +1494,14 @@
         "dependencies": [
           421850
         ]
+      }
+    },
+    {
+      "projectID": 392805,
+      "fileID": 3889814,
+      "required": true,
+      "__meta": {
+        "name": "CleanCut"
       }
     },
     {
@@ -1526,6 +1630,14 @@
       }
     },
     {
+      "projectID": 407174,
+      "fileID": 3759881,
+      "required": true,
+      "__meta": {
+        "name": "Shutup Experimental Settings!"
+      }
+    },
+    {
       "projectID": 410295,
       "fileID": 4031718,
       "required": true,
@@ -1546,6 +1658,18 @@
       }
     },
     {
+      "projectID": 411357,
+      "fileID": 4102154,
+      "required": true,
+      "__meta": {
+        "name": "Botany Trees",
+        "dependencies": [
+          228525,
+          353928
+        ]
+      }
+    },
+    {
       "projectID": 412082,
       "fileID": 4120070,
       "required": true,
@@ -1554,6 +1678,34 @@
         "dependencies": [
           499980
         ]
+      }
+    },
+    {
+      "projectID": 412525,
+      "fileID": 4052778,
+      "required": true,
+      "__meta": {
+        "name": "LibX",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 413234,
+      "fileID": 4100814,
+      "required": true,
+      "__meta": {
+        "name": "Travel Anchors",
+        "dependencies": [
+          412525
+        ]
+      }
+    },
+    {
+      "projectID": 415438,
+      "fileID": 3947784,
+      "required": true,
+      "__meta": {
+        "name": "Croptopia"
       }
     },
     {
@@ -1676,6 +1828,17 @@
       }
     },
     {
+      "projectID": 446870,
+      "fileID": 4012833,
+      "required": true,
+      "__meta": {
+        "name": "RSInfinityBooster",
+        "dependencies": [
+          243076
+        ]
+      }
+    },
+    {
       "projectID": 453925,
       "fileID": 3923128,
       "required": true,
@@ -1726,6 +1889,14 @@
       "__meta": {
         "name": "Puzzles Lib",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 495509,
+      "fileID": 4085262,
+      "required": true,
+      "__meta": {
+        "name": "Spirit"
       }
     },
     {
@@ -1822,6 +1993,17 @@
       }
     },
     {
+      "projectID": 556861,
+      "fileID": 4118009,
+      "required": true,
+      "__meta": {
+        "name": "Functional Storage",
+        "dependencies": [
+          287342
+        ]
+      }
+    },
+    {
       "projectID": 563928,
       "fileID": 4095397,
       "required": true,
@@ -1836,6 +2018,18 @@
       "required": true,
       "__meta": {
         "name": "Ecologics"
+      }
+    },
+    {
+      "projectID": 574300,
+      "fileID": 4058235,
+      "required": true,
+      "__meta": {
+        "name": "Applied Mekanistics",
+        "dependencies": [
+          223794,
+          268560
+        ]
       }
     },
     {
@@ -1855,6 +2049,17 @@
         "explicit": false,
         "dependencies": [
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 581495,
+      "fileID": 3973908,
+      "required": true,
+      "__meta": {
+        "name": "Oculus",
+        "dependencies": [
+          574856
         ]
       }
     },
@@ -1910,6 +2115,18 @@
       "required": true,
       "__meta": {
         "name": "No Chat Reports"
+      }
+    },
+    {
+      "projectID": 659011,
+      "fileID": 4065922,
+      "required": true,
+      "__meta": {
+        "name": "Deeper and Darker",
+        "dependencies": [
+          388172,
+          388172
+        ]
       }
     }
   ]

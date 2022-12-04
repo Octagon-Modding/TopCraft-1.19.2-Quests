@@ -716,6 +716,18 @@
       }
     },
     {
+      "projectID": 267172,
+      "fileID": 4088174,
+      "required": true,
+      "__meta": {
+        "name": "MineTogether",
+        "dependencies": [
+          419699,
+          576589
+        ]
+      }
+    },
+    {
       "projectID": 268495,
       "fileID": 3914635,
       "required": true,

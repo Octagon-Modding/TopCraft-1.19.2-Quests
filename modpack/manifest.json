@@ -1897,7 +1897,10 @@
       "fileID": 4124726,
       "required": true,
       "__meta": {
-        "name": "Sophisticated Backpacks"
+        "name": "Sophisticated Backpacks",
+        "dependencies": [
+          618298
+        ]
       }
     },
     {
@@ -2103,6 +2106,17 @@
         "name": "Nether's Delight",
         "dependencies": [
           398521
+        ]
+      }
+    },
+    {
+      "projectID": 496541,
+      "fileID": 3955196,
+      "required": true,
+      "__meta": {
+        "name": "Corail Woodcutter Extension",
+        "dependencies": [
+          331983
         ]
       }
     },
@@ -2340,7 +2354,8 @@
       "fileID": 4123457,
       "required": true,
       "__meta": {
-        "name": "Sophisticated Core"
+        "name": "Sophisticated Core",
+        "explicit": false
       }
     },
     {

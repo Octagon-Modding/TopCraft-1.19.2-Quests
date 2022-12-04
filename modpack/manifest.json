@@ -929,6 +929,20 @@
       }
     },
     {
+      "projectID": 289412,
+      "fileID": 4075705,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Forge)",
+        "dependencies": [
+          404468,
+          309674,
+          404465,
+          419699
+        ]
+      }
+    },
+    {
       "projectID": 290209,
       "fileID": 4087995,
       "required": true,
